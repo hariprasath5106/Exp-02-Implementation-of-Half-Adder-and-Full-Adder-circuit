@@ -56,13 +56,14 @@ assign carry = ((a&b)|(b&c)|(c&a));
 endmodule
 
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-##Developed by: HARI PRASATH S
-##RegisterNumber: 212222240034
+
+###Developed by: HARI PRASATH S
+###RegisterNumber: 212222240034
+
 */
 Logic symbol & Truthtable
 RTL realization
 
-### Output:
 ### RTL
 HALF ADDER
 
